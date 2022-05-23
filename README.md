@@ -1,2 +1,1 @@
-hiii boissssss
-chai peelooo
+this is the readme file of our project
